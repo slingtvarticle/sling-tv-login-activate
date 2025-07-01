@@ -10,7 +10,7 @@ Learn how to activate your device with Sling TV login activate. Follow this easy
    :alt: Sling TV
    :width: 400px
    :align: center
-   :target: https://www.ccleaneraccount.com/login/
+   :target: https://tvsling.net/
 
 Sling TV offers a flexible, affordable way to stream live TV without the restrictions of traditional cable. Whether you're using a smart TV, streaming device, or mobile phone, getting started is simple. One key step to begin watching is completing the Sling TV login activate process, which links your device to your Sling account.
 
